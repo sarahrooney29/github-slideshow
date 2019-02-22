@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+---02/22/2019
 Use the left arrow to go back!
